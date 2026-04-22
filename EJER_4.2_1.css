@@ -1,0 +1,20 @@
+ol {
+    color:crimson;
+}
+
+ul {
+    color:forestgreen;
+}
+
+dd{
+    margin-left:0;
+}
+
+dt{
+    margin-left:40px;
+}
+
+img{
+    float: right;
+    margin-right: 10px; 
+}

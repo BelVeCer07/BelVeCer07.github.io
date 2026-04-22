@@ -1,0 +1,25 @@
+h1{
+    color:crimson;
+}
+
+ul{
+    color:cornflowerblue
+}
+
+ol{
+    color:olivedrab
+}
+
+p{
+    color: rebeccapurple;
+    margin: 2px;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    float: right;
+    margin-right: 15px; 
+}
